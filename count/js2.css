@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(159, 158, 158);
+    align-items: center;
+}
+
+button{
+    font-size: larger;
+
+}
+label{
+    
+    display: block;
+    text-align: center;
+    font-size: 80px;
+}
+.cc{
+    text-align: center;
+}
+
